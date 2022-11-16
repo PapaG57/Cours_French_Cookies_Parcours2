@@ -5,15 +5,18 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header,
+main,
+footer {
+    margin-left: 5%;
+}
+
 /* Header */
 .img_entete {
-    margin-left: 3%;
+    margin-top: 1%;
 }
 
 /* div titre */
-.titre {
-    margin-left: 3%;
-}
 
 h1 {
     margin-top: 8px;
@@ -26,4 +29,8 @@ p {
     margin-bottom: 5px;
 }
 
-/* div Overwiew */
+h2 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 2em;
+}
