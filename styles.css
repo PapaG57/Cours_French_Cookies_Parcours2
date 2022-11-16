@@ -40,3 +40,18 @@ h2 {
 hr {
     margin-top: 0;
 }
+
+.icon_overview {
+    display: flex;
+    justify-content: space-between;
+}
+
+.time {
+    display: flex;
+    gap: 60px;
+}
+
+.text_overview {
+    display: flex;
+    justify-content: space-between;
+}
