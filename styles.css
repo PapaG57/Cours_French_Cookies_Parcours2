@@ -6,8 +6,7 @@ body {
 }
 
 header,
-main,
-footer {
+main {
     margin-left: 5%;
     margin-right: 38%;
 }
@@ -62,12 +61,16 @@ hr {
 }
 
 /* div ingredients */
-.text_ligne_1 {
+.text_ligne_1,
+.text_ligne_2,
+.text_ligne_3,
+.text_ligne_4,
+.text_ligne_5 {
     display: flex;
     gap: 200px;
 }
 
-.text_ligne_2 {
-    display: flex;
-
+.text_ligne_2,
+.text_ligne_4 {
+    background-color: lightgrey;
 }
