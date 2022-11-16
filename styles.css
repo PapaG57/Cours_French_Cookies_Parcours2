@@ -1,6 +1,6 @@
 body {
     margin: 0;
-
+    padding: 0;
 }
 
 .img_entete {
@@ -8,7 +8,7 @@ body {
     justify-content: center;
 }
 
-.titre {
+. .titre {
     display: flex;
     justify-content: center;
 }
