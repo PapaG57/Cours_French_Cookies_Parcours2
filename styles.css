@@ -9,6 +9,7 @@ header,
 main,
 footer {
     margin-left: 5%;
+    margin-right: 38%;
 }
 
 /* Header */
@@ -29,8 +30,13 @@ p {
     margin-bottom: 5px;
 }
 
+/* div overview */
 h2 {
     margin-top: 8px;
-    margin-bottom: 8px;
+    margin-bottom: 0;
     font-size: 2em;
+}
+
+hr {
+    margin-top: 0;
 }
