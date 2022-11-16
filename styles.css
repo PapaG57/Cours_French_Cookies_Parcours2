@@ -31,6 +31,10 @@ p {
 }
 
 /* div overview */
+.overview {
+    height: 200px;
+}
+
 h2 {
     margin-top: 8px;
     margin-bottom: 0;
@@ -39,6 +43,7 @@ h2 {
 
 hr {
     margin-top: 0;
+    opacity: 0.5;
 }
 
 .icon_overview {
@@ -54,4 +59,15 @@ hr {
 .text_overview {
     display: flex;
     justify-content: space-between;
+}
+
+/* div ingredients */
+.text_ligne_1 {
+    display: flex;
+    gap: 200px;
+}
+
+.text_ligne_2 {
+    display: flex;
+
 }
